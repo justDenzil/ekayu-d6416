@@ -4,7 +4,7 @@ price: '108.00'
 title: Foxtail Millet (Navane) (1 KG)
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/Foxtail_millet_672x672.png
-default_original_image: images/plant6-lg.jpg
+default_original_image: images/melodic-lettuce.png
 order: 6
 category: src/pages/category/staples.md
 template: product
