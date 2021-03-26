@@ -3,7 +3,7 @@ id: '3'
 price: '12.00'
 title: Curry Leaves Raw (200 -280 GM)
 description: 'Nulla non pretium metus, vitae finibus lectus.'
-default_thumbnail_image: images/plant3.jpg
+default_thumbnail_image: images/curry.jpg
 default_original_image: images/plant3-lg.jpg
 featured: true
 order: 3
