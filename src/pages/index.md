@@ -26,7 +26,7 @@ sections:
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
-      - src/pages/category/bigplants.md
+      - src/pages/category/staples.md
       - src/pages/category/cactuses.md
   - type: testimonials_section
     section_id: testimonials_section
