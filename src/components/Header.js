@@ -47,7 +47,7 @@ export default class Header extends React.Component {
                                     </svg>
                                 </span>
                                 <span class="snipcart-items-count"></span>
-                                 <span class="snipcart-total-price"></span>
+                                <span class="snipcart-total-price"></span>
                             </button>
                             <button className="hamburger button button--transparent">
                                 <svg width="24" height="16" viewBox="0 0 24 16" xmlns="http://www.w3.org/2000/svg">
