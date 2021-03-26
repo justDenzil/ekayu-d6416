@@ -80,7 +80,7 @@ export default class Header extends React.Component {
                                 data-item-description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
   tincidunt."
-                                data-item-image="images/rajmudi_rice_672x672.png"
+                                data-item-image="/images/rajmudi_rice_672x672.png"
                                 data-item-name="The Starry Night">
                                 Add to cart
                                 </button>
