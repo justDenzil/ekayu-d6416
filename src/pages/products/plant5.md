@@ -6,7 +6,7 @@ description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
 default_thumbnail_image: images/Broken_wheat_672x672.jpg
-default_original_image: images/plant5-lg.jpg
+default_original_image: images/nervous-ant.jpg
 featured: true
 order: 5
 category: src/pages/category/staples.md
