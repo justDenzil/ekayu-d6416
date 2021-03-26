@@ -6,7 +6,7 @@ description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/plant6.jpg
 default_original_image: images/plant6-lg.jpg
 order: 6
-category: src/pages/category/bigplants.md
+category: src/pages/category/staples.md
 template: product
 ---
 
