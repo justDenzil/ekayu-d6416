@@ -20,7 +20,7 @@ sections:
     light_title: true
     featured_products:
       - src/pages/products/plant1.md
-      - src/pages/products/plant5.md
+      - src/pages/products/plant3.md
       - src/pages/products/plant5.md
       - src/pages/products/plant2.md
   - type: featured_categories_section
