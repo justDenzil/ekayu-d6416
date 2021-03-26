@@ -9,7 +9,7 @@ default_thumbnail_image: images/plant5.jpg
 default_original_image: images/plant5-lg.jpg
 featured: true
 order: 5
-category: src/pages/category/bigplants.md
+category: src/pages/category/staples.md
 template: product
 ---
 
