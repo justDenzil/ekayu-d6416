@@ -1,20 +1,21 @@
 {
-    "favicon": "images/favicon.png",
-    "logo_dark": "images/logo.svg",
-    "logo_light": "images/logo-white.svg",
-    "hamburger_background_image": "/images/leaf-light-grey.svg",
+    "favicon": "images/ekayu favicon.svg",
+    "logo_dark": "images/clever-pineapple.svg",
+    "logo_light": "images/panoramic-rabbit.svg",
+    "hamburger_background_image": "images/haloweave symbol.svg",
     "bg_image_primary": "/images/header.jpg",
     "bg_image_primary_opacity": 60,
-    "bg_image_secondary": "/images/leaf-light-grey.svg",
-    "bg_image_product": "/images/leaf.svg",
+    "bg_image_secondary": "images/Pattern-Randomized.svg",
+    "bg_image_product": "images/haloweave symbol 50 opacity.svg",
     "snipcart_api_key": "",
-    "footer_text": "Copyright 2021 Planty Inc. All rights reserved.",
+    "footer_text": "Copyright 2021 haloweave Inc. All rights reserved.",
     "palette": "green",
     "main_menu": [
         {
             "title": "Store",
             "url": "/store",
-            "style": "link"
+            "style": "link",
+            "arrow": true
         },
         {
             "title": "About",
@@ -27,5 +28,5 @@
             "style": "link"
         }
     ],
-    "title": "Planty"
+    "title": "ekayu"
 }

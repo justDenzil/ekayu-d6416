@@ -1,16 +1,16 @@
 ---
 id: '1'
-price: '49.40'
-title: Nulla suscipit
+price: '90'
+title: Rajmudi Rice
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
   tincidunt.
-default_thumbnail_image: images/plant1.jpg
-default_original_image: images/plant1-lg.jpg
+default_thumbnail_image: images/rajmudi_rice_672x672.png
+default_original_image: images/graceful-mango.png
 featured: true
 order: 1
-category: src/pages/category/bigplants.md
+category: src/pages/category/staples.md
 template: product
 ---
 

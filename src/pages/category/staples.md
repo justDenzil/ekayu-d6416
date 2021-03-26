@@ -1,5 +1,5 @@
 ---
-title: Cactuses
-order: 2
+title: Staple
+order: 1
 template: category
 ---
