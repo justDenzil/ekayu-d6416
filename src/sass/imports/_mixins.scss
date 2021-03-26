@@ -11,12 +11,14 @@
 
   @include smaller-than-max-width {    
     padding-left: 50px;
-    padding-right: 50px; 
+    padding-right: 50px;
+    font-family: 'Poppins', sans-serif; 
   }
 
   @include smaller-than-tablet { 
     padding-left: 25px;
-    padding-right: 25px; 
+    padding-right: 25px;
+    font-family: 'Poppins', sans-serif; 
   }
 } 
 
