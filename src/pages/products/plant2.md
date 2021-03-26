@@ -1,6 +1,6 @@
 ---
 id: '2'
-price: '4599.00'
+price: '45'
 title: Papaya Raw (1 KG)
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/plant2.jpg
