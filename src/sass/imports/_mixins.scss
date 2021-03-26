@@ -33,9 +33,9 @@ $mobile: 375px;
 $tablet: 768px;
 $desktop: 1440px;
 
-@mixin smaller-than-mobile { @media (max-width: $mobile) { @content; } }
-@mixin mobile { @media (max-width: $mobile) and (min-width: 0)  { @content; } }
-@mixin bigger-than-mobile { @media (min-width: $mobile) { @content; } }
+@mixin smaller-than-mobile { @media (max-width: $mobile) { @content;font-family: 'Poppins', sans-serif; } }
+@mixin mobile { @media (max-width: $mobile) and (min-width: 0)  { @content;font-family: 'Poppins', sans-serif; } }
+@mixin bigger-than-mobile { @media (min-width: $mobile) { @content;font-family: 'Poppins', sans-serif; } }
 
 @mixin smaller-than-tablet { @media (max-width: $tablet) { @content; } }
 @mixin tablet { @media (max-width: $tablet) and (min-width: $mobile)  { @content; } }
