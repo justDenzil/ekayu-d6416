@@ -6,7 +6,7 @@ description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/Foxtail_millet_672x672.png
 default_original_image: images/Foxtail_millet_672x672.png
 order: 6
-category: src/pages/category/staples.md
+category: src/pages/category/fruits.md
 template: product
 ---
 
