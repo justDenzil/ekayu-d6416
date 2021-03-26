@@ -62,8 +62,7 @@ export default class Header extends React.Component {
                                         </span>
                                     </button>
                                     <div className="">
-                                        <span className="snipcart-items-count"></span>
-                                        <span className="snipcart-total-price"></span>
+                                        
                                     </div>
                                 </div>
                                 <button className="link snipcart-checkout hamburger__checkout">
