@@ -82,7 +82,7 @@ export default class Header extends React.Component {
   tincidunt."
                                 data-item-image="/images/rajmudi_rice_672x672.png"
                                 data-item-name="Rajmudi Rice">
-                                Add to cart ni
+                                Add to cart 
                                 </button>
                                 <ul className="hamburger__nav">
                                     {_.map(_.get(site, 'siteMetadata.main_menu', null), (item, item_idx) => {
