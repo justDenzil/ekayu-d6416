@@ -43,7 +43,7 @@ sections:
     section_id: contact_section
     address: '#125, 6th cross, ITC colony, Coxtwon , Bangalore - 560005'
     phone: '+919886639809'
-    email: geeks@snipcart.com
+    email: cyril@ekayu.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
 template: advanced
 ---
