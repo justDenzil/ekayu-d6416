@@ -46,7 +46,7 @@ sections:
     section_id: promotion_section
     title: Organic food at your doorstep
     subtitle: from ₹149.99
-    image: images/Pattern-Randomized.svg
+    image: images/header.jpg
     background_image: images/leaf.svg
     cta:
       title: Discover
