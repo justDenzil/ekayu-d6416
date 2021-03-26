@@ -38,7 +38,7 @@ sections:
         text: I didn't know the ekayu guys were into herbs as well!
       - author:
           name: Major Payne
-          location: 'VA, USA'
+          location: 'BLR, IND'
         text: >-
           Well I'll be damned. These plants really ARE greener than any of my
           recruits.
