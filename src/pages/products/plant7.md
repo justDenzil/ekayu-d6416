@@ -1,6 +1,6 @@
 ---
 id: '6'
-price: '108.00'
+price: '45'
 title: Turmeric Stick (100 GM)
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/Foxtail_millet_672x672.png
