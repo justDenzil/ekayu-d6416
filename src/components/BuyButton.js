@@ -30,7 +30,7 @@ export default class BuyButton extends React.Component {
                     Add to cart
                 </span>
                 <span class="snipcart-items-count"></span>
-<span class="snipcart-total-price"></span>
+                <span class="snipcart-total-price"></span>
             </button>
         );
     }
