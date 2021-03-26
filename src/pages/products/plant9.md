@@ -3,7 +3,7 @@ id: '9'
 price: '135.00'
 title: Orange Raw (1 KG)
 description: Cras molestie faucibus ipsum ut vulputate.
-default_thumbnail_image: images/Foxtail_millet_672x672.png
+default_thumbnail_image: images/orange.png
 default_original_image: images/Foxtail_millet_672x672.png
 order: 9
 category: src/pages/category/fruits_vegetables.md
