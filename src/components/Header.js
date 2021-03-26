@@ -77,7 +77,9 @@ export default class Header extends React.Component {
                                 data-item-id="1"
                                 data-item-price="90"
                                 data-item-url="/products/plant1/"
-                                data-item-description="High-quality replica of The Starry Nig"
+                                data-item-description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
+  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
+  tincidunt."
                                 data-item-image="/assets/images/starry-night.jpg"
                                 data-item-name="The Starry Night">
                                 Add to cart
