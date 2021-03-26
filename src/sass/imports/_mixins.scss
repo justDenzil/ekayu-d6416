@@ -34,7 +34,7 @@ $tablet: 768px;
 $desktop: 1440px;
 
 @mixin smaller-than-mobile { @media (max-width: $mobile) { @content;font-family: 'Poppins', sans-serif; } }
-@mixin mobile { @media (max-width: $mobile) and (min-width: 0)  { @content; } }
+@mixin mobile { @media (max-width: $mobile) and (min-width: 0)  { @content;font-family: 'Poppins', sans-serif; } }
 @mixin bigger-than-mobile { @media (min-width: $mobile) { @content; } }
 
 @mixin smaller-than-tablet { @media (max-width: $tablet) { @content; } }
