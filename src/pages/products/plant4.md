@@ -1,7 +1,7 @@
 ---
 id: '4'
 price: '24.99'
-title: Cras molestie
+title: Palak Leaves (200 -280 GM)
 description: Maecenas pretium blandit ex id lobortis.
 default_thumbnail_image: images/plant4.jpg
 default_original_image: images/plant4-lg.jpg
