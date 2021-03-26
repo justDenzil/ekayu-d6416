@@ -4,7 +4,7 @@ price: '45'
 title: Papaya Raw (1 KG)
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/pap.jpg
-default_original_image: images/modern-kangaroo.jpg
+default_original_image: images/pap.jpg
 order: 2
 category: src/pages/category/fruits_vegetables.md
 template: product
