@@ -37,7 +37,7 @@ sections:
           and DPA](http://bit.ly/2YJwlyt).
       - question: Rapid-fire questions
         answer: >-
-          Q: Why is this Planty theme so beautiful? <br /> A: We hired our first
+          Q: Why is this ekayu theme so beautiful? <br /> A: We hired our first
           designer a couple of months ago. <br /><br /> Q: Why did you build a
           theme for Stackbit? <br /> A: We believe in Stackbit’s promise of
           opening up the JAMstack to more developers. Plus, we trust these
