@@ -18,7 +18,7 @@ sections:
           should *manage customer expectations*. Just like [a good checkout
           flow](http://bit.ly/2YCN3iG) should. Tell them the truth:
 
-            - US shipping will take between 3 to 5 business days.
+            - Bangalore shipping will take between 3 to 5 business days.
             - International shipping will take between 5 and 10 business days.
             - Mars shipping will be automatically redirected to Elon Musk’s Twitter account.
       - question: How do refunds and returns work?
