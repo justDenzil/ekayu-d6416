@@ -5,7 +5,7 @@ title: Turmeric Stick (100 GM)
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/Foxtail_millet_672x672.png
 default_original_image: images/Foxtail_millet_672x672.png
-order: 6
+order: 7
 category: src/pages/category/staples.md
 template: product
 ---
