@@ -1,6 +1,6 @@
 ---
 id: '5'
-price: '220.00'
+price: '72'
 title: Broken Wheat (500GM)
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
