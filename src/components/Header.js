@@ -73,6 +73,15 @@ export default class Header extends React.Component {
                                         <path d="M22.682 6.079h-22.682v1.712h22.814l-4.574 4.528 1.194 1.182 6.566-6.5-6.566-6.5-1.194 1.182 4.442 4.397z" />
                                     </svg>
                                 </button>
+                                <button class="snipcart-add-item"
+  data-item-id="starry-night"
+  data-item-price="79.99"
+  data-item-url="/paintings/starry-night"
+  data-item-description="High-quality replica of The Starry Night by the Dutch post-impressionist painter Vincent van Gogh."
+  data-item-image="/assets/images/starry-night.jpg"
+  data-item-name="The Starry Night">
+  Add to cart
+</button>
                                 <ul className="hamburger__nav">
                                     {_.map(_.get(site, 'siteMetadata.main_menu', null), (item, item_idx) => {
                                         let section = _.get(page, 'frontmatter.section', null) || _.get(page, 'frontmatter.title', null);
