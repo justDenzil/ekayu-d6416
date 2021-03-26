@@ -19,7 +19,6 @@ sections:
     image: images/promo.jpg
     background_image: /images/leaf.svg
     cta:
-      title: Discover
       url: /store
       style: secondary
       arrow: true
