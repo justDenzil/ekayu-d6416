@@ -4,7 +4,7 @@ price: '27'
 title: Palak Leaves (200 -280 GM)
 description: Maecenas pretium blandit ex id lobortis.
 default_thumbnail_image: images/palak.jpg
-default_original_image: images/melodic-rabbit.jpg
+default_original_image: images/palak.jpg
 order: 4
 category: src/pages/category/fruits_vegetables.md
 template: product
