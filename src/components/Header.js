@@ -74,7 +74,7 @@ export default class Header extends React.Component {
                                     </svg>
                                 </button>
                                 <button class="snipcart-add-item"
-                                data-item-id="starry-night"
+                                data-item-id="1"
                                 data-item-price="79.99"
                                 data-item-url="/paintings/starry-night"
                                 data-item-description="High-quality replica of The Starry Night by the Dutch post-impressionist painter Vincent van Gogh."
