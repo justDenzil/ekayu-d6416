@@ -22,7 +22,7 @@ sections:
     section_id: promotion_section
     title: Renew your family's health with organic food
     subtitle: from ₹149.99
-    image: images/clever-pineapple.svg
+    image: images/Foxtail_millet_672x672.png
     background_image: /images/leaf.svg
     cta:
       title: Discover
