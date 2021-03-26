@@ -5,7 +5,7 @@ title: Orange Raw (1 KG)
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/Foxtail_millet_672x672.png
 default_original_image: images/Foxtail_millet_672x672.png
-order: 6
+order: 9
 category: src/pages/category/fruits_vegetables.md
 template: product
 ---
