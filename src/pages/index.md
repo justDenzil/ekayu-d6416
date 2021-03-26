@@ -12,6 +12,7 @@ sections:
       - url: /store
         arrow: true
         style: primary
+        title: Our Products
   - type: featured_products_section
     section_id: best_sellers_section
     title: Best sellers
