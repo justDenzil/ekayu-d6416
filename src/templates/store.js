@@ -37,6 +37,8 @@ export default class Store extends React.Component {
     data-item-image="/images/products/{{ .Params.image }}"
     data-item-name="{{ .Title }}"
 ></a>
+<a class="btn btn-primary checkout snipcart-checkout">Click here to checkout (<span class="snipcart-items-count"></span>)</a>
+
             </Layout>
         );
     }
