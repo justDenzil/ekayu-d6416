@@ -27,18 +27,7 @@ export default class Store extends React.Component {
                     )
                 })}
             </main>
-            <a
-    href="#"
-    class="image-holder__link snipcart-add-item"
-    data-item-id="{{ anchorize .Title }}"
-    data-item-price="{{ .Params.price }}"
-    data-item-url="{{ .RelPermalink }}"
-    data-item-description="{{ .Params.description }}"
-    data-item-image="/images/products/{{ .Params.image }}"
-    data-item-name="{{ .Title }}"
-></a>
-<a class="btn btn-primary checkout snipcart-checkout">Click here to checkout (<span class="snipcart-items-count"></span>)</a>
-
+            
             </Layout>
         );
     }
