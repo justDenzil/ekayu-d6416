@@ -20,7 +20,7 @@ export default class Body extends React.Component {
                     <meta httpEquiv="X-UA-Compatible" content="ie=edge"/>
                     <link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.0.18/default/snipcart.css" />
                     <script async src="https://cdn.snipcart.com/themes/v3.0.18/default/snipcart.js"></script>
-                    <div id="snipcart" data-config-modal-style="side" data-api-key="MTAxZDI1ZDAtY2NhNC00ZTM3LWI5YjItOTY5YjRkMGQ1Mzk2NjM3NTIzMzkxODAxNTE2MTkx" hidden></div>
+                    <div id="snipcart" data-config-modal-style="side" data-api-key="MTAxZDI1ZDAtY2NhNC00ZTM3LWI5YjItOTY5YjRkMGQ1Mzk2NjM3NTIzMzkxODAxNTE2MTkx"></div>
                     <link rel="icon" type="image/png" href={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.favicon', null))}/>
                     <body className={_.get(this.props, 'pageContext.frontmatter.template', null) + '-template palette-' + _.get(this.props, 'pageContext.site.siteMetadata.palette', null)} />
                 </Helmet>
