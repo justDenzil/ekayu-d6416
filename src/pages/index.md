@@ -44,7 +44,7 @@ sections:
           recruits.
   - type: promotion_section
     section_id: promotion_section
-    title: A new home interior for summer
+    title: Organic food at your doorstep
     subtitle: from ₹149.99
     image: images/promo.jpg
     background_image: images/leaf.svg
