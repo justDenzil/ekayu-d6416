@@ -6,7 +6,7 @@ description: Maecenas pretium blandit ex id lobortis.
 default_thumbnail_image: images/plant4.jpg
 default_original_image: images/plant4-lg.jpg
 order: 4
-category: src/pages/category/cactuses.md
+category: src/pages/category/fruits_vegetables.md
 template: product
 ---
 
