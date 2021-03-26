@@ -38,7 +38,7 @@ sections:
       - question: Rapid-fire questions
         answer: >-
           Q: Why is this ekayu site so beautiful? <br /> A: We hired our first
-          designer a couple of months ago. <br /><br /> le we love feels meaningful enough.
+          designer a couple of months ago. <br /><br />
   - type: contact_section
     image: images/promo.jpg
     section_id: contact_section
