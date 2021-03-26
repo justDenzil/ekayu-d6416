@@ -1,6 +1,6 @@
 ---
 id: '6'
-price: '100.00'
+price: '1.00'
 title: Foxtail Millet (Navane) (1 KG)
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/plant6.jpg
