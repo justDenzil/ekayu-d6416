@@ -9,8 +9,7 @@ sections:
     content: |
       # The most fresh, healthy, organic foods at your doorstep.
     actions:
-      - title: See all items
-        url: /store
+      - url: /store
         arrow: true
         style: primary
   - type: featured_products_section
