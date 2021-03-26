@@ -17,7 +17,7 @@ sections:
         description: >-
           Word. But good **code** _can_ solve a lots of problems, too. New _and_
           old.
-        image: images/team.jpg
+        image: images/curry.jpg
   - type: promotion_section
     section_id: promotion_section
     title: Renew your family's health with organic food
