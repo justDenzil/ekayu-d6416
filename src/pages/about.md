@@ -8,10 +8,6 @@ sections:
     headline: We are ekayu
     subtitle: >-
       Well, not really. We’re haloweave
-      [Stackbit](https://www.stackbit.com/), a killer JAMstack site-builder. To
-      enable e-commerce on Planty, you’ll need to [sign up for
-      Snipcart](http://bit.ly/2YzKmhP). Testing is forever free, no credit card
-      required.
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
