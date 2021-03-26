@@ -69,7 +69,7 @@ export default class Header extends React.Component {
                                     </svg>
                                 </button>
                                 <span class="snipcart-items-count"></span>
-<span class="snipcart-total-price"></span>
+                                <span class="snipcart-total-price"></span>
                                 <ul className="hamburger__nav">
                                     {_.map(_.get(site, 'siteMetadata.main_menu', null), (item, item_idx) => {
                                         let section = _.get(page, 'frontmatter.section', null) || _.get(page, 'frontmatter.title', null);
