@@ -10,6 +10,6 @@ category: src/pages/category/fruits_vegetables.md
 template: product
 ---
 
-# Integer porta
+# Papaya Raw (1 KG)
 
 Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus.
