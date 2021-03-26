@@ -34,7 +34,7 @@ sections:
     testimonials:
       - author:
           name: John Dope
-          location: 'Colorado, USA'
+          location: 'BLR, IND'
         text: I didn't know the ekayu guys were into herbs as well!
       - author:
           name: Major Payne
