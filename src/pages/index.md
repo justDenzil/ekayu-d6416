@@ -7,7 +7,7 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 65
     content: |
-      # The most fresh, healthy, organic foods at your doorstep.
+      ## The most fresh, healthy, organic foods at your doorstep.
     actions:
       - url: /store
         arrow: true
