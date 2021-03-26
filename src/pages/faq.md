@@ -42,7 +42,7 @@ sections:
     image: images/promo.jpg
     section_id: contact_section
     address: '#125, 6th cross, ITC colony, Coxtwon , Bangalore - 560005'
-    phone: +1-202-555-0112
+    phone: '+919886639809'
     email: geeks@snipcart.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
 template: advanced
