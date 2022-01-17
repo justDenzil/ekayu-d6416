@@ -4,7 +4,7 @@ page_css_class: lorem-ipsum
 white_header: false
 sections:
   - section_id: email
-    address: Benga
+    address: Bengaluru
     phone: '+919886639809'
     email: lorem-ipsum
     mapUrl: lorem-ipsum
