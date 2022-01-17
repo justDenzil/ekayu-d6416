@@ -4,7 +4,7 @@ page_css_class: lorem-ipsum
 white_header: false
 sections:
   - section_id: email
-    address: contact@haloweave.com
+    address: Benga
     phone: '+919886639809'
     email: lorem-ipsum
     mapUrl: lorem-ipsum
