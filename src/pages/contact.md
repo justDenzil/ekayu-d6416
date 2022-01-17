@@ -6,7 +6,7 @@ sections:
   - section_id: email
     address: Bengaluru
     phone: '+919886639809'
-    email: contact@haloweave
+    email: contact@haloweave.com
     mapUrl: lorem-ipsum
     type: contact_section
 template: advanced
