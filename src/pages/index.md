@@ -12,6 +12,7 @@ sections:
         arrow: true
         style: primary
         title: Our Products
+    background_image: images/bg-5ed75894.jpg
   - type: featured_products_section
     section_id: best_sellers_section
     title: Best sellers
