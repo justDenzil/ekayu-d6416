@@ -26,6 +26,12 @@
             "title": "FAQ",
             "url": "/faq",
             "style": "link"
+        },
+        {
+            "title": "lorem-ipsum",
+            "url": "lorem-ipsum",
+            "style": "primary",
+            "arrow": false
         }
     ],
     "title": "ekayu"
