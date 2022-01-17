@@ -3,7 +3,7 @@ title: contact
 page_css_class: lorem-ipsum
 white_header: false
 sections:
-  - section_id: lorem-ipsum
+  - section_id: email
     address: contact@haloweave.com
     phone: lorem-ipsum
     email: lorem-ipsum
