@@ -7,7 +7,7 @@ sections:
     address: Bengaluru
     phone: '+919886639809'
     email: contact@haloweave.com
-    mapUrl: lorem-ipsum
+    mapUrl: 'https://goo.gl/maps/t8vnj8m6SWewaFtS9'
     type: contact_section
 template: advanced
 ---
