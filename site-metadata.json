@@ -1,7 +1,7 @@
 {
     "favicon": "images/favicon grad.svg",
     "logo_dark": "images/ekayu LOGO dark.svg",
-    "logo_light": "images/em1.png",
+    "logo_light": "images/favicon grad.svg",
     "hamburger_background_image": "images/haloweave symbol.svg",
     "bg_image_primary": "/images/header.jpg",
     "bg_image_primary_opacity": 60,
