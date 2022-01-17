@@ -4,7 +4,6 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/3261396.jpg
     background_image_opacity: 65
     content: |
       # Fresh, healthy, organic foods at your doorstep.
@@ -13,6 +12,7 @@ sections:
         arrow: true
         style: primary
         title: Our Products
+    background_image: images/bg-5ed75894.jpg
   - type: featured_products_section
     section_id: best_sellers_section
     title: Best sellers
